@@ -1,32 +1,14 @@
 Quisque Lorem ipsum dolor sit amet
-Etiam vitae lacus nulla. Morbi nec dui lacus. 
-Vestibulum elementum nisi id condimentum porttitor. 
-Duis euismod justo quis semper lobortis. 
-Cras vestibulum velit in enim sollicitudin fermentum. 
-Quisque sit amet quam nisl. Aenean venenatis massa vel dignissim finibus. 
-Suspendisse vel nunc tincidunt, semper erat eget, euismod lorem.
-Test
+Hello fellow Insomniacs and
+welcome to v2.0.0 for Minecraft
+1.20.1!
 
+This is exciting times as the
+Official Server will be
+transitioning to the new version
+and with it a complete wipe of
+the server.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HIDDEN 
-# If "H1DDEN" with an I is instead 1 is included, the MOTD will be shown.
-
-This is the max length of a line..
+If all goes according to plan,
+the server will be going online
+on Saturday the 30th of march.

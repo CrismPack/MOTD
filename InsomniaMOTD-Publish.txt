@@ -1,1 +1,5 @@
 PUBLISH=1
+
+
+# 1 = Shown
+# 2 = Hidden

@@ -1,0 +1,2 @@
+Max 34 characters per line. Example:
+Quisque Lorem ipsum dolor sit amet
