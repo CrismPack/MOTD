@@ -3,14 +3,15 @@ Hello fellow Insomniacs and
 welcome to v2.0.0 for Minecraft
 1.20.1!
 
-This is exciting times as the
-Official Server will be
-transitioning to the new version
-and with it a complete wipe of
-the server.
+The Official Server is now live
+and open for business!
 
-If all goes according to plan,
-the server will be going online
-on Saturday the 30th of march.
+The Nether and the End will be 
+locked for a short time to make 
+it so that people don't just
+get enderite within 2 seconds.
+= Nether: 1 week.
+= End: 3 weeks.
 
-- HaXr
+Written by: HaXr 
+Date of MOTD: 30/03/2024
