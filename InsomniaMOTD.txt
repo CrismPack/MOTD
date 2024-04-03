@@ -1,9 +1,3 @@
-&c------------------------------
-&cWe are aware of a crashing issue
-&cplaguing the server today. If
-&cyou are affected, please contact 
-&cstaff on Discord to get help.
-&c01/04/2024
 ------------------------------
 Hello fellow Insomniacs and
 welcome to v2.0.0 for Minecraft
