@@ -1,17 +1,19 @@
 ------------------------------
-Hello fellow Insomniacs and
-welcome to v2.0.0 for Minecraft
-1.20.1!
+As you may have noticed, v2.1.0
+is now out! Boasting a ton of
+changes and improvements to the
+pack! Including (but not limited
+to): 
+- Reworked Nether generation.
+- Improved difficulty scaling.
+- Bug fixes.
+------------------------------
+On the official server, Nether 
+will be opened as soon as it is
+done pre-generating the terrain.
 
-The Official Server is now live
-and open for business!
-
-The Nether and the End will be 
-locked for a short time to make 
-it so that people don't just
-get enderite within 2 seconds.
-= Nether: 1 week.
-= End: 3 weeks.
+The End will still be closed for 
+another 2 weeks.
 
 Written by: HaXr 
-Date of MOTD: 30/03/2024
+Date of MOTD: 07/04/2024
