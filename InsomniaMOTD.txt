@@ -11,6 +11,8 @@ to):
 On the official server, Nether 
 will be opened as soon as it is
 done pre-generating the terrain.
+(PS: Sorry for the lag while that
+is going on)
 
 The End will still be closed for 
 another 2 weeks.
