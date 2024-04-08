@@ -1,21 +1,9 @@
 ------------------------------
-As you may have noticed, v2.1.0
-is now out! Boasting a ton of
-changes and improvements to the
-pack! Including (but not limited
-to): 
-- Reworked Nether generation.
-- Improved difficulty scaling.
-- Bug fixes.
-------------------------------
-On the official server, Nether 
-will be opened as soon as it is
-done pre-generating the terrain.
-(PS: Sorry for the lag while that
-is going on)
+The Nether is now open on the 
+Official Server!
 
 The End will still be closed for 
 another 2 weeks.
 
 Written by: HaXr 
-Date of MOTD: 07/04/2024
+Date of MOTD: 08/04/2024
