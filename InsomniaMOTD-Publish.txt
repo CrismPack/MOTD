@@ -1,4 +1,4 @@
-PUBLISH=1
+PUBLISH=2
 
 
 # 1 = Shown
